@@ -34,3 +34,4 @@ Escolha as tecnologias que você vai usar e tente montar uma solução completa 
 - Criar uma ramificação deste repositório 
 - Criar um diretório src com a sua implementação
 - Criar um Pull request para mesclar sua solução à este repositório
+- Criar seu CV atualizado utilizando a formatação do git na ramificação
